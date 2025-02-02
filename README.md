@@ -8,7 +8,7 @@
 
 ## Coursework Information
 | Assignment      | Information     | Individual Work     |
-|-----------|-----------|
+|-----------|-----------|-----------|
 | Assignment1      | Basic Visualizations        | Yes |
 | Assignment2      | Advanced Visualizations I       | Yes |
 | Assignment3      | Advanced Visualizations II      | Yes |
