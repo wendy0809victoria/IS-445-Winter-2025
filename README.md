@@ -7,9 +7,9 @@
 3. As the author of this repository, I will be NOT responsible for any academic misconduct allegations arising from someone copying the contents of this repository.
 
 ## Coursework Information
-| Assignment      | Information     |
+| Assignment      | Information     | Individual Work     |
 |-----------|-----------|
-| Assignment1      | Basic Visualizations        | 
-| Assignment2      | Advanced Visualizations I       | 
-| Assignment3      | Advanced Visualizations II      | 
-| Final Project    | Data Visualizations of Geographical Effects on Traffic Violation     | 
+| Assignment1      | Basic Visualizations        | Yes |
+| Assignment2      | Advanced Visualizations I       | Yes |
+| Assignment3      | Advanced Visualizations II      | Yes |
+| Final Project    | Data Visualizations of Geographical Effects on Traffic Violation     | Yes |
